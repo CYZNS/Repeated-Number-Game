@@ -4,6 +4,7 @@ Repeated Number Game is a Windows Forms application designed to challenge your c
 
 The concept is simple but addictive: The game generates a chaotic grid of random numbers and gives you a single target number. Your mission is to find every instance of that target hidden within the noise before the countdown timer hits zero.
 
+![Game Screenshot](RepeatedNumbers.png)
 
 
 ✨ Key Features
